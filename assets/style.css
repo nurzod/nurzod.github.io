@@ -1,0 +1,25 @@
+body{color:#3f1f2f;font-size:13px;font-family:Arial, Helvetica, sans-serif;background-attachment:fixed;margin:0 auto;background:#f4f4f4;max-width:500px;}
+h1{margin:0px;padding:0px;font-size:inherit;display:inline-block;}
+a:link, a:active, a:visited{color:#6b2502;text-decoration:none;}
+a.highslide img{width:200px;}
+a:hover, a:focus{color:#e06122;}
+.logo{background:#642887 url(/logo6.gif) repeat-x bottom;border-bottom:1px solid #fff;position:relative;}
+.rzd, .phdr{background:#f7509b;padding:5px;color:#fff;}
+div.mnneu{padding:3px 0px;border-bottom:1px solid #e2e2e2;background-color:#ffffff;}
+div.mnneub{background-color:#ffffff;padding-top:3px;}
+div.mnneue{background-color:#ffffff;border-bottom:1px solid #e2e2e2;padding-bottom:3px;}
+.rzd2{background:#f77f50;padding:5px;color:#fff;}
+.mn, .berrors, .menu, .list1, .list2, .rmenu{background:#fff;padding:6px;color:#013b65;}
+hr{border:none;color:#e2e2e2;background-color:#e2e2e2;height:1px;}
+.navigation{margin:12px;}
+.navigation a{border:1px solid #F77F50;padding:0px 4px;text-decoration:none;color:#F77F50;margin:1px;text-align:center;border-radius:2px;}
+.navigation span{background-color:#F77F50;color:rgb(255, 255, 255);padding:1px 5px;text-decoration:none;margin:1px;text-align:center;border-radius:2px;}
+textarea.textd{padding:6px;border:1px solid #F77F50;min-width:100px;width:100%;max-width:100%;}
+.off{background-color:#E86D6D;font-weight:bold;padding:0px 2px;color:#FFF;border-radius:2px;font-size:small;}
+.on{background-color:#00C400;font-weight:bold;padding:0px 2px;color:#FFF;border-radius:2px;font-size:small;}
+.navpg{margin:2px;text-align:center;border-radius:3px;}
+a.navpg{border:1px solid #F7509B;padding:2px 6px;text-decoration:none;color:#F7509B;}
+b.navpg:hover{background-color:#F7509B;border:1px solid #F7509B;}
+span.navpg{padding:2px 6px;background-color:#F7509B;border:1px solid #F7509B;color:#fff;}
+.quote{border-left:4px solid #c0c0c0;color:#878787;font-size:small;margin-left:2px;padding:2px 0 2px 4px;}
+input[type=text], input[type=select], input[type=password]{border:1px solid #e2e2e2;}
